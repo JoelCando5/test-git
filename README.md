@@ -12,3 +12,6 @@ Aquest és un exercici de git i markdown. Afegirem a aquest projecte una **web**
 * el fitxer de markdown ben fet 
 * publicar la web a git
 
+I ara la foto d'un gatet
+
+![foto d'un gat](./gat.jpg)
